@@ -1,2 +1,3 @@
 # hello-world
 The first lab, 2 months late...
+My name is Niall, im a student of Informatin Technology at Waterford Institute of Technology. Currently I am in quarentine for the Covid-19 pandemic. 
